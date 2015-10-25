@@ -3,15 +3,28 @@
     "capabilities": [
         ""
     ],
-    "companyName": "jason.lowenthal+pebble@gmail.c",
-    "longName": "HelloPebble",
+    "companyName": "Pebble",
+    "longName": "Tutorial-2-2",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
     },
-    "sdkVersion": "3",
-    "shortName": "HelloPebble",
-    "uuid": "5cc3231b-b3cb-46bc-ab87-3639ac66f6b7",
+    "sdkVersion": "2",
+    "shortName": "Tutorial-2-2",
+    "uuid": "1446ba8a-4f8b-47af-8316-5e6fd20f662d",
+    "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
         "watchface": true
