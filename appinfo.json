@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jason.lowenthal+pebble@gmail.c",
+    "longName": "HelloPebble",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "HelloPebble",
+    "uuid": "5cc3231b-b3cb-46bc-ab87-3639ac66f6b7",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
